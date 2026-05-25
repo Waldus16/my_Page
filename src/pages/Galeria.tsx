@@ -1,15 +1,15 @@
 import { useState } from 'react';
 
 
-import zdj1 from '../assets/galeria (1).jpg';
-import zdj2 from '../assets/galeria (2).jpg';
-import zdj3 from '../assets/galeria (3).jpg';
-import zdj4 from '../assets/galeria (4).jpg';
-import zdj5 from '../assets/galeria (5).jpg';
-import zdj6 from '../assets/galeria (6).jpg';
-import zdj7 from '../assets/galeria (7).jpg';
-import zdj8 from '../assets/galeria (8).jpg';
-import zdj9 from '../assets/galeria (9).jpg';
+import zdj1 from '../assets/galeria(1).jpg';
+import zdj2 from '../assets/galeria(2).jpg';
+import zdj3 from '../assets/galeria(3).jpg';
+import zdj4 from '../assets/galeria(4).jpg';
+import zdj5 from '../assets/galeria(5).jpg';
+import zdj6 from '../assets/galeria(6).jpg';
+import zdj7 from '../assets/galeria(7).jpg';
+import zdj8 from '../assets/galeria(8).jpg';
+import zdj9 from '../assets/galeria(9).jpg';
 
 
 const listaZdjec = [zdj1, zdj2, zdj3, zdj4, zdj5, zdj6, zdj7, zdj8, zdj9];
