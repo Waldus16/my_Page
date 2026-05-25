@@ -2,15 +2,15 @@ import { useState } from 'react';
 
 
 const listaZdjec = [
-  '/galeria/galeria1.jpg',
-  '/galeria/galeria2.jpg',
-  '/galeria/galeria3.jpg',
-  '/galeria/galeria4.jpg',
-  '/galeria/galeria5.jpg',
-  '/galeria/galeria6.jpg',
-  '/galeria/galeria7.jpg',
-  '/galeria/galeria8.jpg',
-  '/galeria/galeria9.jpg'
+  '/galeria1.jpg',
+  '/galeria2.jpg',
+  '/galeria3.jpg',
+  '/galeria4.jpg',
+  '/galeria5.jpg',
+  '/galeria6.jpg',
+  '/galeria7.jpg',
+  '/galeria8.jpg',
+  '/galeria9.jpg'
 ];
 
 export function Galeria() {
