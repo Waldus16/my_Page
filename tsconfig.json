@@ -1,5 +1,7 @@
-"scripts": {
-  "dev": "vite",
-  "build": "vite build", // <-- ZMIEŃ TO (usuń "tsc -b &&")
-  "preview": "vite preview"
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
 }
