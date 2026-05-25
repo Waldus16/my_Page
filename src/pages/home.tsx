@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from 'react';
-import ja from '../assets/ja.jpeg';
+
 
 export function Home() {
   const [timeLeft, setTimeLeft] = useState("");
@@ -34,7 +34,7 @@ export function Home() {
   
 
       <aside className='float-right w-[20%] h-auto ml-[30px] mt-[20px] mr-[200px] ring-2 ring-blue-500'>
-        <img src={ja} alt="Ja" className='h-[350px] w-full ' />
+        <img src="/ja.jpeg" alt="Ja" className='h-[350px] w-full ' />
         <h6 className='text-[5px]'>PS. Nie mam lepszego zdjęcia </h6>
       </aside>
       
