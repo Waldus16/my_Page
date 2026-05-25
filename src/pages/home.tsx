@@ -72,7 +72,7 @@ export function Home() {
           <ul className='list-disc pl-[20px]'>
             <li>Moje urodziny: 15-09-2009 <br />Do następnych zostało: <span className="font-bold text-red-500">{timeLeft}</span></li>
             <li>Interesuję się fotografią </li>
-            <li>KAtegorie prawa jazdy: T, AM</li>
+            <li>Moje kategorie prawa jazdy: T, AM</li>
           </ul>
         </section>
       </main>
